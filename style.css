@@ -66,7 +66,7 @@ body{
   .title {
     margin: 0;
     font-size: 50px; 
-    font-family: sagerange;
+    font-family: "sagerange";
   }
   
   .nav-elements ul {
